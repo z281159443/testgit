@@ -6,3 +6,4 @@ dev1
 3
 4
 newdev 1
+newdev2
