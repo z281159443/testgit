@@ -1,2 +1,0 @@
-window1
-window2 master
